@@ -36,8 +36,8 @@
   contents:
     - title: Robust Optimization/Machine Learning Framework
       items: 
-        - [Binary Classification with Instance and Label Dependent Label Noise](https://arxiv.org/abs/2306.03402), with Paul Grigas
-        - [Stochastic First-Order Algorithms for Constrained Distributionally Robust Optimization](https://arxiv.org/abs/2305.16584), with Paul Grigas [code](https://github.com/HyungkiIm/SFOM-DRO)
+        - Binary Classification with Instance and Label Dependent Label Noise, with Paul Grigas
+        - Stochastic First-Order Algorithms for Constrained Distributionally Robust Optimization, with Paul Grigas
     - title: Hybrid Control System
       items:
         - Strong Formulation for Hybrid Control System, with Jisun Lee and Alper Atamturk. (working paper)
