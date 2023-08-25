@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research and Publications
-description: My research interest lies on robust optimization/machine learning framework. 
+description: My research focues on robust optimization/machine learning framework, where we seek for a solution that is robust against noise in the data. I have a particular interest in developing algorithms for large-scale robust optimization frameworks, such as Distributionally Robust Optimization (DRO). Additionally, I have experience in developing strong formulations for hybrid control systems, designed to enable real-time problem-solving.
 nav: true
 nav_order: 1
 ---
