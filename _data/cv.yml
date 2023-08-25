@@ -48,11 +48,11 @@
     - year: 2022
       items: 
         - International Conference on Continuous Optimization (ICCOPT) 2022, Lehigh University
-          * Gave a talk on “Stochastic First-Order Methods for Constrained Distributionally Robust Optimization”
+          - Gave a talk on “Stochastic First-Order Methods for Constrained Distributionally Robust Optimization”
     - year: 2023
       items: 
         - Informs Annual Meeting 2023
-          * Gave a talk on “Stochastic First-Order Methods for Constrained Distributionally Robust Optimization”
+          - Gave a talk on “Stochastic First-Order Methods for Constrained Distributionally Robust Optimization”
 
 - title: Honors and Awards
   type: time_table
