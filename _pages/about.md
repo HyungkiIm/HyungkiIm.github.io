@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate, <a href='https://ieor.berkeley.edu/'>Industrial Engineering Operations Research</a>, University of California, Berkeley
 
 profile:
   align: left
