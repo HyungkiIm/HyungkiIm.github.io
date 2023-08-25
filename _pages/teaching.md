@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
+## University of California, Berkeley (TA)
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* **Fall 2022** IEOR 142: Introduction to Machine Learning and Data Analytics taught by Paul Grigas
+* **Fall 2021** IEOR 242: Applications in Data Analysis taught by Paul Grigas
+* **Spring 2021** IEOR 242: Applications in Data Analysis taught by Paul Grigas
+* **Fall 2020** IEOR 240: Optimization Analytics taught by Ilan Adler
 
-Organize your courses by years, topics, or universities, however you like!
+## Seoul National University (TA)
+
+* **Spring 2018** Calculus 1 
+* **Spring 2017** Calculus 1 
+
