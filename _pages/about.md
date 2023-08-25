@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate, <a href='https://ieor.berkeley.edu/'>Industrial Engineering Operations Research</a>, University of California, Berkeley
 
